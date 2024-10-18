@@ -1,0 +1,15 @@
+C:\Users\yossr\OneDrive\سطح المكتب\c#\New folder\Calculator00\bin\Debug\net8.0\Calculator00.exe
+C:\Users\yossr\OneDrive\سطح المكتب\c#\New folder\Calculator00\bin\Debug\net8.0\Calculator00.deps.json
+C:\Users\yossr\OneDrive\سطح المكتب\c#\New folder\Calculator00\bin\Debug\net8.0\Calculator00.runtimeconfig.json
+C:\Users\yossr\OneDrive\سطح المكتب\c#\New folder\Calculator00\bin\Debug\net8.0\Calculator00.dll
+C:\Users\yossr\OneDrive\سطح المكتب\c#\New folder\Calculator00\bin\Debug\net8.0\Calculator00.pdb
+C:\Users\yossr\OneDrive\سطح المكتب\c#\New folder\Calculator00\obj\Debug\net8.0\Calculator00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yossr\OneDrive\سطح المكتب\c#\New folder\Calculator00\obj\Debug\net8.0\Calculator00.AssemblyInfoInputs.cache
+C:\Users\yossr\OneDrive\سطح المكتب\c#\New folder\Calculator00\obj\Debug\net8.0\Calculator00.AssemblyInfo.cs
+C:\Users\yossr\OneDrive\سطح المكتب\c#\New folder\Calculator00\obj\Debug\net8.0\Calculator00.csproj.CoreCompileInputs.cache
+C:\Users\yossr\OneDrive\سطح المكتب\c#\New folder\Calculator00\obj\Debug\net8.0\Calculator00.sourcelink.json
+C:\Users\yossr\OneDrive\سطح المكتب\c#\New folder\Calculator00\obj\Debug\net8.0\Calculator00.dll
+C:\Users\yossr\OneDrive\سطح المكتب\c#\New folder\Calculator00\obj\Debug\net8.0\refint\Calculator00.dll
+C:\Users\yossr\OneDrive\سطح المكتب\c#\New folder\Calculator00\obj\Debug\net8.0\Calculator00.pdb
+C:\Users\yossr\OneDrive\سطح المكتب\c#\New folder\Calculator00\obj\Debug\net8.0\Calculator00.genruntimeconfig.cache
+C:\Users\yossr\OneDrive\سطح المكتب\c#\New folder\Calculator00\obj\Debug\net8.0\ref\Calculator00.dll
